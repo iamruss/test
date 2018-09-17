@@ -1,1 +1,5 @@
 this is a text file.
+
+a text file is a good place to write "duck".
+
+duck
